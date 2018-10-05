@@ -9,3 +9,4 @@
         4 - Deposito: realiza o deposito entre as contas;
         5 - Reajustar: reajusta o saldo com base na taxa da conta poupanca, caso nao seja digitada taxa, ele usurá a padrão.
         6 - Sair:
+  OBS: O limite do cheque especial foi setada em 100,00.
